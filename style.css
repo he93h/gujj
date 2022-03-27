@@ -392,6 +392,9 @@ a {
 
 .location a {
   color: black;
+  margin: 1rem;
+  border: solid 1px black;
+  padding: 0.6rem 1rem;
 }
 
 .location iframe {
