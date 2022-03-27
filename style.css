@@ -392,7 +392,7 @@ a {
 
 .location a {
   color: black;
-  margin: 1rem;
+  margin: 1rem 0rem;
   border: solid 1px black;
   padding: 0.6rem 1rem;
 }
