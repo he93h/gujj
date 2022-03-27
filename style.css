@@ -762,5 +762,22 @@ a {
 				font-size: 30px;
 }
 
+.contact-box i{
+   padding: 10px;
+   font-size: 20px;
+				
+}
+
+.contact-box h2 {
+				display: inline;
+				font-size: 20px;
+}
+
+.contact-box p {
+				padding: 0 10px;
+				font-size: 10px;
+				
+}
+
 	
 }
