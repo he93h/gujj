@@ -394,7 +394,7 @@ a {
   color: black;
   margin: 1rem 0rem;
   border: solid 1px black;
-  display: inline;
+  display: inline-block;
   padding: 0.6rem 1rem;
 }
 
