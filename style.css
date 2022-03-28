@@ -20,8 +20,7 @@ a {
 /*  --------- Navbar Styling ---------  */
 
 .header {
-				position: fixed;
-				top: 0;
+				
 }
 
 .dev p {
@@ -50,7 +49,8 @@ a {
 				background: #6b2bff;
 				width: 100vw;
 				height: 60px;
-				position: relative;
+				position: fixed;
+				top: 0;
 }
 
 .faq-header {
