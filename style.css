@@ -42,7 +42,8 @@ a {
 				background: #6b2bff;
 				width: 100vw;
 				height: 60px;
-				position: relative;
+				position: fixed;
+				top: 0;
 }
 
 .contact-header {
@@ -57,21 +58,24 @@ a {
 				background: #6b2bff;
 				width: 100vw;
 				height: 60px;
-				position: relative;
+				position: fixed;
+				top: 0;
 }
 
 .services-header {
 				background: #6b2bff;
 				width: 100vw;
 				height: 60px;
-				position: relative;
+				position: fixed;
+				top: 0;
 }
 
 .privacy-header {
 				background: #6b2bff;
 				width: 100vw;
 				height: 60px;
-				position: relative;
+				position: fixed;
+				top: 0;
 }
 
 .header .background-image {
