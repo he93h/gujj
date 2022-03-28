@@ -98,7 +98,7 @@ a {
 				padding: 30px 44px;
 				width: 100vw;
 				background: transparent;
-				position: absolute;
+				position: fixed;
 }
 
 .header .navbar-about {
