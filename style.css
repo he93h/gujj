@@ -20,7 +20,7 @@ a {
 /*  --------- Navbar Styling ---------  */
 
 .header {
-				
+				position: sticky;
 }
 
 .dev p {
